@@ -48,6 +48,13 @@ numpy==1.19.2
 
 ## Getting Started
 
+### Mask Generation
+utils/data_help.py
+```
+dataset = 'abilene'
+gen_normal_missing_matrix(dataset=dataset,mean_ratio=0.1,std=0.05,counts=3)
+```
+
 ### Config
 
 ```
