@@ -93,9 +93,3 @@ python prediction_with_md_train.py
 
 ...
 
-## Citation
-
-...
-## Reference
-[44] L. A. Mesquita, K. D. Assis, L. V. Pinho, R. C. Almeida Jr, E. F.Simas Filho, M. S. Alencar, Resource planning on elastic optical networks using traffic matrix prediction, AEU-International Journal of Electronics and Communications 134 (2021) 153615.  
-[45] B. Yu, H. Yin, Z. Zhu, Spatio-temporal graph convolutional networks:a deep learning framework for traffic forecasting, in: Proceedings of the 27th International Joint Conference on Artificial Intelligence,2018, pp. 3634–3640.
