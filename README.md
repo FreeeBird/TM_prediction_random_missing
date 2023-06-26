@@ -15,17 +15,17 @@ Two publicly available datasets are utilized to validate the proposed prediction
 
 ## Framework
 
+
+![image](https://github.com/FreeeBird/Network-traffic-matrix-prediction-with-incomplete-data-via-masked-matrix-modeling/assets/22734806/e98d2159-484c-4030-92e2-c3ef58932261)
 1. Masked matrix modeling-based matrix completion
    - Masked matrix modeling (Mask generation, Pre-filling, and Reconstruction)
    - 3D-UNet module
 3. Traffic matrix prediction
    - LSTM2D module
-![image](https://github.com/FreeeBird/Network-traffic-matrix-prediction-with-incomplete-data-via-masked-matrix-modeling/assets/22734806/e98d2159-484c-4030-92e2-c3ef58932261)
-
 
 ## Results
 
-Baselines:
+Baselines: Zero-filling/Mean-filling/KNN/MC-NMF/LMaFit/IALM-MC/SRCNN/GCRINT - LSTM2D/LSTNet/MTGNN
 
 ![image](https://github.com/FreeeBird/Network-traffic-matrix-prediction-with-incomplete-data-via-masked-matrix-modeling/assets/22734806/034dc991-59e3-4fe0-9041-2abb2cdafe49)
 
